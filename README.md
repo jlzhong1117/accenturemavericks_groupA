@@ -1,8 +1,8 @@
-# :earth_americas: GDP dashboard template
+# ⚖️: CLAWRIF-AI
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A streamlit app that takes legal documents in pdf form and generates a simplified version.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+Open our app here: https://clarif-ai-law.streamlit.app/
 
 ### How to run it on your own machine
 
